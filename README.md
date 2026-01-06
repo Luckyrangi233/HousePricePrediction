@@ -4,6 +4,8 @@ A Streamlit web app that predicts house prices using a trained machine learning 
 
 <img width="1200" height="838" alt="Screenshot 2025-09-03 000311" src="https://github.com/user-attachments/assets/2a14b457-4316-4a42-b4d1-0824d77ee55b" />
 
+<img width="1133" height="613" alt="Screenshot 2025-09-15 121334" src="https://github.com/user-attachments/assets/7074cbe8-89cf-4c15-9913-6a3c5b456080" />
+
 This project predicts the price of a house based on various property features using a trained machine learning model, deployed with Streamlit.
 
 📌 Project Overview
