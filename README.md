@@ -1,7 +1,8 @@
 # 🏠 House Price Prediction
 
 A Streamlit web app that predicts house prices using a trained machine learning model.
-<img width="1525" height="952" alt="Screenshot 2025-09-15 121611" src="https://github.com/user-attachments/assets/1ceebe2c-52fc-4146-be56-b857b957f9fb" />
+
+<img width="1200" height="838" alt="Screenshot 2025-09-03 000311" src="https://github.com/user-attachments/assets/2a14b457-4316-4a42-b4d1-0824d77ee55b" />
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
